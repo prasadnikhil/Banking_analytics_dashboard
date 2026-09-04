@@ -1,5 +1,5 @@
 # Banking_analytics_dashboard
-# Banking Analytics Suite: Churn, Segmentation, Fraud & Credit Risk
+# Bank Analytics Suite: Churn, Segmentation, Fraud & Credit Risk
 
 A Python + SQL + Power BI project analyzing customer churn, segmentation, transaction fraud, and loan default risk across 294,853 real banking records — built to identify *where* risk and value concentrate, and *what a bank should act on first*.
 
@@ -406,19 +406,19 @@ ORDER BY churn_summary.churn_rate_pct DESC;
 > Tighten fraud monitoring specifically around the overnight risk window and higher-value transactions.
 > Reassess underwriting thresholds for loan purposes most linked to the 36% high-risk loan value concentration.
 
-![Executive Summary](dashboard_images/executive_summary.png)
+![Executive Summary](DASHBOARD/executive_summary.png)
 
 ### Customer Churn & Retention
-![Churn & Retention Dashboard](dashboard_images/churn_retention.png)
+![Churn & Retention Dashboard](DASHBOARD/churn_retention.png)
 
 ### Customer Segmentation
-![Segmentation Dashboard](dashboard_images/customer_segmentation.png)
+![Segmentation Dashboard](DASHBOARD/customer_segmentation.png)
 
 ### Transaction Fraud Detection
-![Fraud Detection Dashboard](dashboard_images/fraud_detection.png)
+![Fraud Detection Dashboard](DASHBOARD/fraud_detection.png)
 
 ### Credit Risk & Loan Default
-![Credit Risk Dashboard](dashboard_images/credit_risk.png)
+![Credit Risk Dashboard](DASHBOARD/credit_risk.png)
 
 **Live Dashboard:** *[ADD LIVE DASHBOARD LINK HERE]*
 
@@ -434,4 +434,3 @@ This project shows that risk and value in this data are not evenly spread — th
 3. Revisit underwriting criteria for loan purposes with above-average default rates (e.g. retraining, education), since risk is concentrated rather than evenly distributed.
 
 ---
-
