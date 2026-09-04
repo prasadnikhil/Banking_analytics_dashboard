@@ -406,19 +406,19 @@ ORDER BY churn_summary.churn_rate_pct DESC;
 > Tighten fraud monitoring specifically around the overnight risk window and higher-value transactions.
 > Reassess underwriting thresholds for loan purposes most linked to the 36% high-risk loan value concentration.
 
-![Executive Summary](DASHBOARD/executive_summary.png)
+![Executive Summary](DASHBOARD/EXECUTIVE%20SUMMARY%20BANKING%20ANALYTICS.png)
 
 ### Customer Churn & Retention
-![Churn & Retention Dashboard](DASHBOARD/churn_retention.png)
+![Churn & Retention Dashboard](DASHBOARD/CUSTOMER%20CHURN%20AND%20RETENTION%20ANALYSIS.png)
 
 ### Customer Segmentation
-![Segmentation Dashboard](DASHBOARD/customer_segmentation.png)
+![Segmentation Dashboard](DASHBOARD/CUSTOMER%20SGMENTAION%20AND%20VALUE%20ANALYSIS.png)
 
 ### Transaction Fraud Detection
-![Fraud Detection Dashboard](DASHBOARD/fraud_detection.png)
+![Fraud Detection Dashboard](DASHBOARD/TRANSACTION%20FRAUD%20DETECTION.png)
 
 ### Credit Risk & Loan Default
-![Credit Risk Dashboard](DASHBOARD/credit_risk.png)
+![Credit Risk Dashboard](DASHBOARD/CREDIT%20RISK%20AND%20LOAN%20DEFAULT%20ANALYSIS.png)
 
 **Live Dashboard:** *[ADD LIVE DASHBOARD LINK HERE]*
 
